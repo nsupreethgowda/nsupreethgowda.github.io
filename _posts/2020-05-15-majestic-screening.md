@@ -6,4 +6,4 @@ date: 2020-05-15 10:45:13 -0400
 background: '/img/posts/majestic.jpg'
 category: blog
 ---
->> Unpublished <<
+>> Unpublished
