@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do we really have our privacy? "
+title: "Do we really have our privacy?"
 subtitle: a worrisome trend is brewing
 date: 2020-06-15 10:45:13 +0530
 category: blog
