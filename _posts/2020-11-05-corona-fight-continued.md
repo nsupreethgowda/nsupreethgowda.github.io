@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corona fight continued"
-subtitle: rapid antigen test turned positive before I could say "oh damn!"
+subtitle: some tough times ahead
 date: 2020-11-05 22:19:33 +0530
 background: '/img/posts/1000-steps.jpg'
 category: medicine
