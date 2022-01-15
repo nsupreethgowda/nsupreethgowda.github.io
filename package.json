@@ -29,13 +29,13 @@
         "bootstrap": "4.3.1",
         "font-awesome": "4.7.0",
         "jquery": "3.5.0",
-        "startbootstrap-clean-blog": "5.0.8"
+        "startbootstrap-clean-blog": "^5.0.8"
     },
     "devDependencies": {
         "browser-sync": "2.26.7",
         "gulp": "4.0.2",
         "glob-parent": ">=5.1.2",
-        "axios": ">=0.21.2",
+        "axios": ">=0.19.0",
         "follow-redirects": ">=1.5.10"
     }
 }
