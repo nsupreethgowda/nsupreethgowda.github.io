@@ -29,12 +29,12 @@
         "bootstrap": "4.3.1",
         "font-awesome": "4.7.0",
         "jquery": "3.5.0",
-        "startbootstrap-clean-blog": "^5.0.8"
+        "startbootstrap-clean-blog": "^5.1.0"
     },
     "devDependencies": {
         "axios": "^0.24.0",
         "browser-sync": "2.26.7",
-        "follow-redirects": ">=1.5.10",
+        "follow-redirects": "^1.14.7",
         "glob-parent": ">=5.1.2",
         "gulp": "4.0.2"
     }
