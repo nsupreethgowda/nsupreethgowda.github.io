@@ -32,10 +32,10 @@
         "startbootstrap-clean-blog": "^5.0.8"
     },
     "devDependencies": {
+        "axios": "^0.24.0",
         "browser-sync": "2.26.7",
-        "gulp": "4.0.2",
+        "follow-redirects": ">=1.5.10",
         "glob-parent": ">=5.1.2",
-        "axios": ">=0.19.0",
-        "follow-redirects": ">=1.5.10"
+        "gulp": "4.0.2"
     }
 }
