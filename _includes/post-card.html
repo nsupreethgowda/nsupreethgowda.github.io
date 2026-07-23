@@ -1,0 +1,8 @@
+<article class="journal-entry">
+  <div class="entry-meta">
+    <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: '%b %-d, %Y' }}</time>
+    {% if include.post.category %}<span class="topic">{{ include.post.category }}</span>{% endif %}
+  </div>
+  <h3><a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a></h3>
+  <p>{{ include.post.subtitle | default: include.post.excerpt | strip_html | truncatewords: 24 }}</p>
+</article>
