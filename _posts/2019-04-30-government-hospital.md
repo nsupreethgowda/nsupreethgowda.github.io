@@ -3,7 +3,6 @@ layout: post
 title: "Difficulties of working in a Government Hospital"
 subtitle: "a retrospective view of my year"
 date: 2019-04-30 23:45:13 +0530
-background: '/img/posts/krh.jpg'
 category: blog
 ---
 

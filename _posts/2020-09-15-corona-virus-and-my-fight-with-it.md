@@ -3,7 +3,6 @@ layout: post
 title: "Corona virus and my fight with it"
 subtitle: rapid antigen test turned positive before I could say "oh damn!"
 date: 2020-09-19 20:45:13 +0530
-background: '/img/posts/cannula.jpg'
 category: medicine
 ---
 It was a routine Sunday morning for me, getting up early and finishing the rounds. But this mild headache  had worried me. Chalking it up to being on an empty stomach for the past 12 hours, I moved on. The cog-wheels never stopped and was thinking of all the worst case scenarios except "the ONE"!  Later that day I hear that my boss was sick and I was expected to manage the clinic for the foreseeable future. I think the creeping complacency about the pandemic didn't register in my brain, but all this just might be the beginning of the end for me. As healthcare professionals we assume that we are less likely to be diseased. This turned out to be the "the-one-that-shall-not-be-named". The next morning the rapid antigen test turned positive before I could say "oh damn!". Even though I was feeling well, I was strongly advised to choose hospital admission over home-isolation, and the plan was to continue the Faviparivir, multivitamins and other supportive measures. (premonition on my admins part, I guess)

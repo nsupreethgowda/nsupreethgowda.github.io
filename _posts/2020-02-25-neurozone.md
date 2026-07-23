@@ -3,7 +3,6 @@ layout: post
 title: "Decision to choose Neurology and NeuroZone experience"
 subtitle: hope this doesn't back fire
 date: 2020-02-25 20:40:03 +0530
-background: '/img/posts/mri.jpg'
 category: blog
 ---
 With my decision to write USMLE locked in, choosing the branch was easier. After a month after graduation and being out of work started to bug me. I started getting part time duties at various hospital across the city and then one day said, let me go to the hospital nearest to my place and landed in NeuroZone.
