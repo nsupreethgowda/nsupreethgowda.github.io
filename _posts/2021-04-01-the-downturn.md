@@ -24,6 +24,8 @@ On the other hand, the patients who had everything ended up in one set of hospit
 
 That was the fear. The practice of medicine in India felt so dependent on luck and on the ability of an individual rather than on a system. The development of systems was never given much thought. There was always a fear of retribution, a fear of stolen credit, or the sense that improving a system might improve someone else's life—someone they may or may not like. That kind of petty jealousy could have been one of the reasons I decided to leave.
 
+![Play that I went to after my brother thought that it would change my spirits](/img/posts/rangayala-play.avif "Play that I went to after my brother thought that it would change my spirits")
+
 So I don't know if I have the time and energy to get into all of this. It was a tough time.
 
 In hindsight, taking an antidepressant for five days and hoping everything would be fixed—how naive of me.
